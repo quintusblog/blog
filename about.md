@@ -16,9 +16,10 @@ header-img: "img/green.jpg"
 
 # 个人信息
 
-*   Quintus Horace
-*   软件工程专业
-*   技术博客: <http://www.myhanson.com>*
+
+*   姓名： Quintus Horace
+*   专业： 软件工程专业
+*   技术博客: <http://www.myhanson.com>
 *   Github 博客: <https://quintusblog.github.io/blog2/>
 *   Github: <https://github.com/quintushorace>
 
