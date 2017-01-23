@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "my name is Hanson Zhang.On my way to change"
+description: "My name is Quintus Horace.On my way to make some diffent."
 header-img: "img/green.jpg"
 ---
 
@@ -10,17 +10,16 @@ header-img: "img/green.jpg"
 
 # 联系方式
 
-*   Email：yuanpingzhang123@gmail.com
-*   QQ/微信号：835749634/张远平
+*   Email：quintushorace@outlook.com
 
 * * *
 
 # 个人信息
 
-*   张远平/男/1993
-*   本科/广东工业大学 
-*   技术博客: <http://www.myhanson.com>
-*   Github: <https://github.com/zyphs21>
-*   目前就职于：ZTESoft
+*   Quintus Horace
+*   软件工程专业
+*   技术博客: <http://www.myhanson.com>*
+*   Github 博客: <https://quintusblog.github.io/blog2/>
+*   Github: <https://github.com/quintushorace>
 
 * * *
