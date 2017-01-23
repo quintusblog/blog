@@ -5,8 +5,7 @@ description: "这儿什么都没有"
 header-img: "img/semantic.jpg"  
 ---
 
-本页使用方法
-===
+Empty
 
 NULL
 
@@ -14,4 +13,7 @@ NIL
 
 这儿什么都没有
 
-By the way, 感谢来访！
+By the way
+
+感谢来访！
+===
