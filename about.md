@@ -19,7 +19,7 @@ header-img: "img/green.jpg"
 
 *   姓名： Quintus Horace
 *   专业： 软件工程专业
-*   技术博客: <http://www.myhanson.com>
+*   技术博客: <http://blog.csdn.net/gutogu>
 *   Github 博客: <https://quintusblog.github.io/blog2/>
 *   Github: <https://github.com/quintushorace>
 
